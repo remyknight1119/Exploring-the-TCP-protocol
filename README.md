@@ -1,2 +1,10 @@
-# Exploring-the-TCP-protocol
-Exploring the TCP protocol
+---
+description: Based on the code of Linux-3.10.12
+---
+
+# Preface
+
+&#x20;       TCP协议的应用及其广泛，只有深入了解其实现原理才能更好地使用它。通过Unix的socket套接字接口，可以开发基于TCP的应用程序；了解TCP的实现可以更加明晰接口的行为，大大提高开发效率。使用Unix的socket套接字接口和系统提供的接口（sysctl，proc等）调整TCP相关参数，以控制TCP的行为，优化其性能；理解TCP的实现可以更加明确各个参数对TCP行为的影响，使得性能优化事半功倍。了解TCP协议的原理与实现，对于学习其它类型的协议，也是大有裨益的。
+
+　　TCP是一个及其复杂的协议，Linux的实现细节更是庞杂，关于Linux TCP的内容可以写好几本书。本文希望在尽可能涵盖TCP主要功能的前提下，努力通过阅读代码和文档去理解TCP协议的原理，为希望了解TCP的人（包括本人）描述一下TCP这个巨人的轮廓，从而为进一步深入理解TCP热身。
+
