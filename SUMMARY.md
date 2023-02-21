@@ -11,4 +11,4 @@
   * [2.3 Listen系统调用](chapter-2-zhun-bei-gong-zuo/2.3-listen-xi-tong-tiao-yong.md)
 * [Chapter 3 建立连接](chapter-3-jian-li-lian-jie/README.md)
   * [3.1 Connect系统调用](chapter-3-jian-li-lian-jie/3.1-connect-xi-tong-tiao-yong.md)
-  * [3.2 SYN与SYN|ACK的发送](chapter-3-jian-li-lian-jie/3.2-syn-yu-synack-de-fa-song.md)
+  * [3.2 SYN与SYN|ACK](chapter-3-jian-li-lian-jie/3.2-syn-yu-synack.md)
