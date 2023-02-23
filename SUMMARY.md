@@ -12,3 +12,4 @@
 * [Chapter 3 建立连接](chapter-3-jian-li-lian-jie/README.md)
   * [3.1 Connect系统调用](chapter-3-jian-li-lian-jie/3.1-connect-xi-tong-tiao-yong.md)
   * [3.2 SYN与SYN|ACK](chapter-3-jian-li-lian-jie/3.2-syn-yu-synack.md)
+  * [3.3 连接建立](chapter-3-jian-li-lian-jie/3.3-lian-jie-jian-li.md)
