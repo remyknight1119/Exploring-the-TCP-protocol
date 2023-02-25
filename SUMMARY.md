@@ -14,3 +14,5 @@
   * [3.2 SYN与SYN|ACK](chapter-3-jian-li-lian-jie/3.2-syn-yu-synack.md)
   * [3.3 连接建立](chapter-3-jian-li-lian-jie/3.3-lian-jie-jian-li.md)
   * [3.4 同时打开](chapter-3-jian-li-lian-jie/3.4-tong-shi-da-kai.md)
+  * [3.5 ICMP不可达报文](chapter-3-jian-li-lian-jie/3.5-icmp-bu-ke-da-bao-wen.md)
+  * [3.6 SYN Cookie](chapter-3-jian-li-lian-jie/3.6-syn-cookie.md)
