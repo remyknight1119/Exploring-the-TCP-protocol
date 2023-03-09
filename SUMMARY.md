@@ -24,3 +24,6 @@
   * [4.4 TCP Small Queue(TSQ)](chapter-4-fa-song-shu-ju/4.4-tcp-small-queue-tsq.md)
   * [4.5 路径MTU发现](chapter-4-fa-song-shu-ju/4.5-lu-jing-mtu-fa-xian.md)
   * [4.6 IP头DF位的设置](chapter-4-fa-song-shu-ju/4.6-ip-tou-df-wei-de-she-zhi.md)
+* [Chapter 5 接收数据](chapter-5-jie-shou-shu-ju/README.md)
+  * [5.1 Generic Receive Offload(GRO)](chapter-5-jie-shou-shu-ju/5.1-generic-receive-offload-gro.md)
+  * [5.2 快速路径](chapter-5-jie-shou-shu-ju/5.2-kuai-su-lu-jing.md)
