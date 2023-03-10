@@ -27,3 +27,4 @@
 * [Chapter 5 接收数据](chapter-5-jie-shou-shu-ju/README.md)
   * [5.1 Generic Receive Offload(GRO)](chapter-5-jie-shou-shu-ju/5.1-generic-receive-offload-gro.md)
   * [5.2 快速路径](chapter-5-jie-shou-shu-ju/5.2-kuai-su-lu-jing.md)
+  * [5.3 慢速路径](chapter-5-jie-shou-shu-ju/5.3-man-su-lu-jing.md)
