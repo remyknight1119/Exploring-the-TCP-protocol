@@ -30,4 +30,5 @@
   * [5.3 慢速路径](chapter-5-jie-shou-shu-ju/5.3-man-su-lu-jing.md)
   * [5.4 ACK发送与接收](chapter-5-jie-shou-shu-ju/5.4-ack-fa-song-yu-jie-shou.md)
   * [5.5 Read系统调用](chapter-5-jie-shou-shu-ju/5.5-read-xi-tong-tiao-yong.md)
-  * [5.6 TCP prequeue](chapter-5-jie-shou-shu-ju/5.6-tcp-prequeue.md)
+  * [5.6 TCP Prequeue](chapter-5-jie-shou-shu-ju/5.6-tcp-prequeue.md)
+  * [5.7 TCP Receive Copy Offload](chapter-5-jie-shou-shu-ju/5.7-tcp-receive-copy-offload.md)
