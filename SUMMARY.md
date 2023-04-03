@@ -32,3 +32,5 @@
   * [5.5 Read系统调用](chapter-5-jie-shou-shu-ju/5.5-read-xi-tong-tiao-yong.md)
   * [5.6 TCP Prequeue](chapter-5-jie-shou-shu-ju/5.6-tcp-prequeue.md)
   * [5.7 TCP Receive Copy Offload](chapter-5-jie-shou-shu-ju/5.7-tcp-receive-copy-offload.md)
+* [Chapter 6 数据交互](chapter-6-shu-ju-jiao-hu/README.md)
+  * [6.1 Seq and ACK Seq](chapter-6-shu-ju-jiao-hu/6.1-seq-and-ack-seq.md)
