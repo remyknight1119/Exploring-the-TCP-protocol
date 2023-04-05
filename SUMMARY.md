@@ -34,3 +34,4 @@
   * [5.7 TCP Receive Copy Offload](chapter-5-jie-shou-shu-ju/5.7-tcp-receive-copy-offload.md)
 * [Chapter 6 数据交互](chapter-6-shu-ju-jiao-hu/README.md)
   * [6.1 Seq and ACK Seq](chapter-6-shu-ju-jiao-hu/6.1-seq-and-ack-seq.md)
+  * [6.2 滑动窗口](chapter-6-shu-ju-jiao-hu/6.2-hua-dong-chuang-kou.md)
